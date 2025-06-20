@@ -1,1 +1,1 @@
-intopone - telegram bot with web app
+intop - web application
